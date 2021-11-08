@@ -8,7 +8,7 @@ My Google Docs addon to change the color of underscores and blank lines.
 
 ### When's the release?
 
-When `Code.gs` gets uploaded.
+December 8th, 2021, but will be delayed if I forget to recreate the Google Cloud Project.
 
 ### Google Workspace Marketplace
 
