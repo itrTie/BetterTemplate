@@ -6,6 +6,10 @@ My Google Docs addon to change the color of underscores and blank lines.
 
 ## Get
 
+### When's the release?
+
+When `Code.gs` gets uploaded.
+
 ### Google Workspace Marketplace
 
 Get it from the Google Workspace Marketplace by going to Add-Ons -> Get add-ons, then search BetterTemplate
